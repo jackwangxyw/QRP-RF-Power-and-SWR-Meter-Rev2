@@ -128,7 +128,7 @@
 			(hidednponfab no)
 			(sketchdnponfab yes)
 			(crossoutdnponfab yes)
-			(subtractmaskfromsilk no)
+			(subtractmaskfromsilk yes)
 			(outputformat 1)
 			(mirror no)
 			(drillshape 0)
@@ -1728,7 +1728,7 @@
 			)
 		)
 	)
-	(gr_text "QRP RF Meter Conn Panel\nMay 2026"
+	(gr_text "QRP RF Meter Conn Panel\nN6CH May 2026"
 		(at 119.5 83.25 0)
 		(layer "B.SilkS")
 		(uuid "cc294d1e-2b3c-431c-960f-1451344be943")
